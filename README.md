@@ -64,6 +64,7 @@
 </div>
 
 ---
+
 ### 🐍 Minhas Contribuições
 
 <div align="center">
@@ -73,6 +74,9 @@
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/leonardomedd/leonardomedd/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+---
+
 ### 🔗 Vamos nos Conectar!
 
 <div align="center">
