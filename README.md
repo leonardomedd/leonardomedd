@@ -8,8 +8,8 @@
 ### 👨‍💻 Sobre mim
 
 - 🎓 Estudando **Bacharelado em Tecnologia da Informação** (UNIVESP)
-- 💼 Trabalhando como **Desenvolvedor de Software** na *Darkside Game Studios* (Foco em Unity e C#)
-- 💻 Experiência prévia como **Estagiário Full Stack** na *ART IT* (React, PHP, APIs REST)
+- 💼 Experiência como **Desenvolvedor de Software** na *Darkside Game Studios* (Foco em Unity e C#)
+- 💻 Experiência prévia como **Full Stack** na *ART IT* (React, PHP, APIs REST)
 - 🚀 Buscando sempre criar aplicações performáticas, escaláveis e intuitivas, aplicando boas práticas e clean code.
 - 💬 Pergunte-me sobre **C#, React, PHP ou Lógica de Programação**
 - 🌍 Idiomas: **Português (Nativo)** | **Inglês (Avançado)**
