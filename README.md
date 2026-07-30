@@ -61,25 +61,37 @@
 
 ---
 
-### 📈 Atividade recente
+### ✨ Do clique à API
+
+<p align="center">
+  💡 <strong>Ideia</strong> &nbsp;→&nbsp; 🎨 <strong>Interface</strong> &nbsp;→&nbsp; ⚙️ <strong>Backend</strong> &nbsp;→&nbsp; 🚀 <strong>Produto</strong>
+</p>
 
 <div align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardomedd&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20nos%20ultimos%2031%20dias" alt="Gráfico de atividade recente no GitHub" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>🎨 Frontend</h3>
+        <p>Interfaces claras, responsivas e agradáveis de usar.</p>
+        <code>React · JavaScript · HTML · CSS</code>
+      </td>
+      <td align="center" width="33%">
+        <h3>⚙️ Backend</h3>
+        <p>Regras de negócio organizadas e soluções escaláveis.</p>
+        <code>Python · Java · PHP</code>
+      </td>
+      <td align="center" width="33%">
+        <h3>🔗 Integrações</h3>
+        <p>Aplicações conectadas por APIs simples e bem estruturadas.</p>
+        <code>REST · MySQL · Git</code>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
-
-### 🐍 Contribuições em movimento
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardomedd/leonardomedd/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardomedd/leonardomedd/output/github-contribution-grid-snake.svg">
-    <img alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/leonardomedd/leonardomedd/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<p align="center">
+  <em>Gosto de transformar ideias em experiências completas, do primeiro componente ao último endpoint.</em>
+</p>
 
 ---
 
